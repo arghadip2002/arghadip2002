@@ -2,9 +2,9 @@
 <h3 align="left">Engineer by Choice, Content Creator by Chance</h3>
 
 
-- 🔭 I’m currently working on [Stock Trend Prediction](https://github.com/arghadip2002/Stock_Trend_Prediction)
+- 🔭 I’m currently working on ML and Deep Learning Projects
 - 🌱 I’m currently learning **Everything :)**
-- 👯 I’m interested in **AI,ML,DL and ANN**
+- 👯 I’m interested in **NLP and Computer Vision**
 - 👯 **R&D Enthusiast**
 
 <br>
