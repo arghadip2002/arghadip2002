@@ -51,7 +51,7 @@
 <br>
 
 <h1 align="center">🏆 GitHub Trophies</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width:65%" src="https://github-profile-trophy.vercel.app/?username=arghadip2002&theme=alduin" alt="arghadip2002" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width:75%" src="https://github-profile-trophy.vercel.app/?username=arghadip2002&theme=juicyfresh" alt="arghadip2002" /></a> </p>
 
 <br>
 <br>
