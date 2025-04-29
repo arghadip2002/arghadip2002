@@ -1,22 +1,7 @@
-<h1 align="left">Hi 👋, I'm ARGHADIP BISWAS</h1><h3 align="left">Innovator by Passion | Creator by Vision</h3>
-
+<h1 align="left">Hi 👋, I'm ARGHADIP BISWAS</h1>
+<h3 align="left">Innovator by Passion | Creator by Vision</h3>
 
 👨‍💻 About Me
-- 🔭 I am actively engaged in Machine Learning and Deep Learning Projects, driving impactful solutions through AI technologies.
-- 🌐 I have a profound interest in Web Development and Full-Stack Engineering, creating seamless digital experiences.
-- 🧠 My expertise lies in Natural Language Processing and Computer Vision, constantly exploring new advancements in Artificial Intelligence.
-- 💡 I am deeply fascinated by Tech Startups and Business Models, with a focus on innovation and entrepreneurship.
-- 📈 I study and practice Investing and Technical Analysis, delving into the science behind financial markets.
-- 🌍 Passionate about History and Geo-Politics, I enjoy analyzing global affairs and their influence on our world.
-- 🛠️ As an R&D Enthusiast, I thrive on uncovering new ideas and turning them into reality.
-
-
-🌟 Quote That Defines Me
-"Curiosity fuels innovation; vision turns it into reality."
-
-Let me know if you'd like any further adjustments—I hope this version resonates with your goals and personality! 🚀
-
-
 - 🔭 I am actively engaged in Machine Learning and Deep Learning Projects, driving impactful solutions through AI technologies.
 - 🌐 I have a profound interest in Web Development and Full-Stack Engineering, creating seamless digital experiences.
 - 🧠 My expertise lies in Natural Language Processing and Computer Vision, constantly exploring new advancements in Artificial Intelligence.
