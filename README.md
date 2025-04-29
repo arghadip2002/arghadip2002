@@ -90,13 +90,6 @@
 <br>
 <br>
 
-<h1 align="center">📊 GitHub Stats:</h1>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=arghadip2002&theme=gruvbox&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=arghadip2002&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arghadip2002&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <div align="center">
   <h1>📊 GitHub Stats:</h1>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghadip2002&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" />
