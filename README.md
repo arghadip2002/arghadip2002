@@ -13,6 +13,22 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ArghadipBiswas.profile/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_arghadip.official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arghadip-biswas-8a4405229/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mr_arghadip) 
 
+<div align="center">
+<h1>🌐 Socials:</h1>
+<a href="https://www.facebook.com/ArghadipBiswas.profile/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/mr_arghadip.official" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://linkedin.com/in/arghadip-biswas-8a4405229/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://youtube.com/@mr_arghadip" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
+</a>
+</div>
+
 <br>
 <br>
 
