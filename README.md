@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm ARGHADIP BISWAS</h1>
-<h3 align="left">Innovator by Passion | Creator by Vision</h3>
+<h3 align="left">"Creating the future with curiosity, innovation, and purpose."</h3>
 
 - 🔭 I am actively engaged in Machine Learning and Deep Learning Projects, driving impactful solutions through AI technologies.
 - 🌐 I have a profound interest in Web Development and Full-Stack Engineering, creating seamless digital experiences.
